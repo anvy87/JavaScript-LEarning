@@ -1,10 +1,16 @@
 // declare a variable
-var firstName = "Anvesh";
+let firstName = "Anvesh";
+firstName = "Mishra";
 
 // use a variable
 console.log(firstName);
 
 // change value
-// firstName = "Apurva";
+//firstName = "Apurva";
 
-console.log(firstName);
+//console.log(firstName);
+
+// declare constants
+const pi = 3.14
+
+console.log(pi * 2)
