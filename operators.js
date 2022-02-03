@@ -19,3 +19,9 @@ console.log(typeof firstName);
 console.log(typeof(age + "")); // 22 --> "22"
 
 // convert string to number
+let myStr = +"34";
+console.log(typeof myStr);
+
+
+age = String(age);
+console.log(typeof age);
