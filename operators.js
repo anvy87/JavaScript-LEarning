@@ -9,7 +9,7 @@
 // BigInt
 // Symbol
 
-let age = 34;
+let age = 35;
 let firstName = "anvesh";
 
 console.log(typeof age);
