@@ -12,10 +12,10 @@
 
 // dont repeat yourself DRY
 
-// while (i <= 3) {
-//     console.log(i);
-//     i++;
-// }
+while (i <= 3) {
+    console.log(i);
+    i++;
+}
 
 
 // example
