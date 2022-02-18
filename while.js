@@ -29,3 +29,6 @@ while (i <= 10) {
     i++;
 }
 console.log(sum);
+
+let total = (num * (num+1) ) / 2;
+console.log(total);
