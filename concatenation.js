@@ -13,3 +13,5 @@ console.log(newStr);
 
 let newStr1 = +str1 + +str2;
 console.log(newStr1);
+
+let str11 = "Anvesh87";
