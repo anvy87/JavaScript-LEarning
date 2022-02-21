@@ -11,3 +11,5 @@ do {
     console.log(j);
     j++;
 } while (j <= 9)
+
+console.log("value of j is ", j);
