@@ -29,3 +29,9 @@ console.log(person1.age);
 
 person1.gender = "male";
 console.log(person1);
+
+
+console.log(person1["name"]);
+
+person1["city"] = "Tikamgarh";
+console.log(person1);
