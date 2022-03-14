@@ -15,7 +15,6 @@ console.log(isEven(7));
 function firstCharacter(anyString) {
     return anyString[0];
 }
-
 console.log(firstCharacter("myname"));
 
 // i/p: array, target(number);  o/p: index of target if target present
