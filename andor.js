@@ -6,7 +6,6 @@ let age = 34;
 // if (firstName[0] === "A") {
 //     console.log("your name starts with A")
 // }
-
 if (age > 18) {
     console.log("you are above 18");
 }
