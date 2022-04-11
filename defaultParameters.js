@@ -19,9 +19,7 @@ function myFunc(a, b, c) {
     console.log(`c is ${c}`)
 
 }
-
 myFunc(3, 5, 7);
-
 
 function addAll(...numbers) {
     let total = 0;
@@ -30,6 +28,5 @@ function addAll(...numbers) {
     }
     return total;
 }
-
 const Ans = addAll(2, 4, 5, 6, 7, 8, 9, 4, 3, 2);
 console.log(Ans);
