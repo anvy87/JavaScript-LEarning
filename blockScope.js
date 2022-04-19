@@ -7,7 +7,6 @@
 //     let firstName = "Anvesh";
 //     console.log(firstName);
 // }
-
 // {
 //     let firstName = "Apurva";
 //     console.log(firstName);
