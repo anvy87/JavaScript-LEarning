@@ -7,11 +7,12 @@ console.log(ans)
 
 
 
+
 function myFunc2() {
     function hello() {
-        console.log("hello world")
+        return "hello world"
     }
     return hello;
 }
-const ans = myFunc2();
-ans();
+const ans1 = myFunc2();
+console.log(ans1());
